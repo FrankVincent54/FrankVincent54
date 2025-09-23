@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FrankVincent
-- 👀 I’m interested in Web and Mobila App Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on fullstack web and mobile app projects
+- 👀 I’m interested in Web Applications Development
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on fullstack web app projects
 - 📫 Reach me @ vincentfrank5432@gmail.com
 - 😄 Pronouns: He/ Him.
 - ⚡ Fun fact: Coding For  Fun, Programming For Life.
